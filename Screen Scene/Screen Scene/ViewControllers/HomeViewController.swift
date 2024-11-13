@@ -1,8 +1,10 @@
-//
-//  HomeViewController.swift
-//  Screen Scene
-//
-//  Created by RAMPU on 13.11.2024..
-//
+import UIKit
 
-import Foundation
+class HomeViewController: UIViewController {
+    override func viewDidLoad() {
+    
+        super.viewDidLoad()
+        
+        view.backgroundColor = .white
+        }
+}
