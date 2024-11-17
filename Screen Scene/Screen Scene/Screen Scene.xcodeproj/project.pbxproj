@@ -7,44 +7,44 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		E7D0904A2CE383C6003547EB /* PBXContainerItemProxy */ = {
+		E7D091162CE97358003547EB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = E7D0902B2CE383C4003547EB /* Project object */;
+			containerPortal = E7D090FD2CE97355003547EB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E7D090322CE383C4003547EB;
+			remoteGlobalIDString = E7D091042CE97355003547EB;
 			remoteInfo = "Screen Scene";
 		};
-		E7D090542CE383C6003547EB /* PBXContainerItemProxy */ = {
+		E7D091202CE97358003547EB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = E7D0902B2CE383C4003547EB /* Project object */;
+			containerPortal = E7D090FD2CE97355003547EB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E7D090322CE383C4003547EB;
+			remoteGlobalIDString = E7D091042CE97355003547EB;
 			remoteInfo = "Screen Scene";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E7D090332CE383C4003547EB /* Screen Scene.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Screen Scene.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E7D090492CE383C6003547EB /* Screen SceneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Screen SceneTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E7D090532CE383C6003547EB /* Screen SceneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Screen SceneUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7D091052CE97355003547EB /* Screen Scene.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Screen Scene.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7D091152CE97358003547EB /* Screen SceneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Screen SceneTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7D0911F2CE97358003547EB /* Screen SceneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Screen SceneUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E7D090302CE383C4003547EB /* Frameworks */ = {
+		E7D091022CE97355003547EB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E7D090462CE383C6003547EB /* Frameworks */ = {
+		E7D091122CE97358003547EB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E7D090502CE383C6003547EB /* Frameworks */ = {
+		E7D0911C2CE97358003547EB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -54,19 +54,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E7D0902A2CE383C4003547EB = {
+		E7D090FC2CE97355003547EB = {
 			isa = PBXGroup;
 			children = (
-				E7D090342CE383C4003547EB /* Products */,
+				E7D091062CE97355003547EB /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E7D090342CE383C4003547EB /* Products */ = {
+		E7D091062CE97355003547EB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E7D090332CE383C4003547EB /* Screen Scene.app */,
-				E7D090492CE383C6003547EB /* Screen SceneTests.xctest */,
-				E7D090532CE383C6003547EB /* Screen SceneUITests.xctest */,
+				E7D091052CE97355003547EB /* Screen Scene.app */,
+				E7D091152CE97358003547EB /* Screen SceneTests.xctest */,
+				E7D0911F2CE97358003547EB /* Screen SceneUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -74,13 +74,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E7D090322CE383C4003547EB /* Screen Scene */ = {
+		E7D091042CE97355003547EB /* Screen Scene */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E7D0905C2CE383C6003547EB /* Build configuration list for PBXNativeTarget "Screen Scene" */;
+			buildConfigurationList = E7D091292CE97358003547EB /* Build configuration list for PBXNativeTarget "Screen Scene" */;
 			buildPhases = (
-				E7D0902F2CE383C4003547EB /* Sources */,
-				E7D090302CE383C4003547EB /* Frameworks */,
-				E7D090312CE383C4003547EB /* Resources */,
+				E7D091012CE97355003547EB /* Sources */,
+				E7D091022CE97355003547EB /* Frameworks */,
+				E7D091032CE97355003547EB /* Resources */,
 			);
 			buildRules = (
 			);
@@ -90,109 +90,109 @@
 			packageProductDependencies = (
 			);
 			productName = "Screen Scene";
-			productReference = E7D090332CE383C4003547EB /* Screen Scene.app */;
+			productReference = E7D091052CE97355003547EB /* Screen Scene.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E7D090482CE383C6003547EB /* Screen SceneTests */ = {
+		E7D091142CE97358003547EB /* Screen SceneTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E7D090612CE383C6003547EB /* Build configuration list for PBXNativeTarget "Screen SceneTests" */;
+			buildConfigurationList = E7D0912C2CE97358003547EB /* Build configuration list for PBXNativeTarget "Screen SceneTests" */;
 			buildPhases = (
-				E7D090452CE383C6003547EB /* Sources */,
-				E7D090462CE383C6003547EB /* Frameworks */,
-				E7D090472CE383C6003547EB /* Resources */,
+				E7D091112CE97358003547EB /* Sources */,
+				E7D091122CE97358003547EB /* Frameworks */,
+				E7D091132CE97358003547EB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E7D0904B2CE383C6003547EB /* PBXTargetDependency */,
+				E7D091172CE97358003547EB /* PBXTargetDependency */,
 			);
 			name = "Screen SceneTests";
 			packageProductDependencies = (
 			);
 			productName = "Screen SceneTests";
-			productReference = E7D090492CE383C6003547EB /* Screen SceneTests.xctest */;
+			productReference = E7D091152CE97358003547EB /* Screen SceneTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		E7D090522CE383C6003547EB /* Screen SceneUITests */ = {
+		E7D0911E2CE97358003547EB /* Screen SceneUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E7D090642CE383C6003547EB /* Build configuration list for PBXNativeTarget "Screen SceneUITests" */;
+			buildConfigurationList = E7D0912F2CE97358003547EB /* Build configuration list for PBXNativeTarget "Screen SceneUITests" */;
 			buildPhases = (
-				E7D0904F2CE383C6003547EB /* Sources */,
-				E7D090502CE383C6003547EB /* Frameworks */,
-				E7D090512CE383C6003547EB /* Resources */,
+				E7D0911B2CE97358003547EB /* Sources */,
+				E7D0911C2CE97358003547EB /* Frameworks */,
+				E7D0911D2CE97358003547EB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E7D090552CE383C6003547EB /* PBXTargetDependency */,
+				E7D091212CE97358003547EB /* PBXTargetDependency */,
 			);
 			name = "Screen SceneUITests";
 			packageProductDependencies = (
 			);
 			productName = "Screen SceneUITests";
-			productReference = E7D090532CE383C6003547EB /* Screen SceneUITests.xctest */;
+			productReference = E7D0911F2CE97358003547EB /* Screen SceneUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E7D0902B2CE383C4003547EB /* Project object */ = {
+		E7D090FD2CE97355003547EB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					E7D090322CE383C4003547EB = {
+					E7D091042CE97355003547EB = {
 						CreatedOnToolsVersion = 16.0;
 					};
-					E7D090482CE383C6003547EB = {
+					E7D091142CE97358003547EB = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = E7D090322CE383C4003547EB;
+						TestTargetID = E7D091042CE97355003547EB;
 					};
-					E7D090522CE383C6003547EB = {
+					E7D0911E2CE97358003547EB = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = E7D090322CE383C4003547EB;
+						TestTargetID = E7D091042CE97355003547EB;
 					};
 				};
 			};
-			buildConfigurationList = E7D0902E2CE383C4003547EB /* Build configuration list for PBXProject "Screen Scene" */;
+			buildConfigurationList = E7D091002CE97355003547EB /* Build configuration list for PBXProject "Screen Scene" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = E7D0902A2CE383C4003547EB;
+			mainGroup = E7D090FC2CE97355003547EB;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = E7D090342CE383C4003547EB /* Products */;
+			productRefGroup = E7D091062CE97355003547EB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E7D090322CE383C4003547EB /* Screen Scene */,
-				E7D090482CE383C6003547EB /* Screen SceneTests */,
-				E7D090522CE383C6003547EB /* Screen SceneUITests */,
+				E7D091042CE97355003547EB /* Screen Scene */,
+				E7D091142CE97358003547EB /* Screen SceneTests */,
+				E7D0911E2CE97358003547EB /* Screen SceneUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E7D090312CE383C4003547EB /* Resources */ = {
+		E7D091032CE97355003547EB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E7D090472CE383C6003547EB /* Resources */ = {
+		E7D091132CE97358003547EB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E7D090512CE383C6003547EB /* Resources */ = {
+		E7D0911D2CE97358003547EB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -202,21 +202,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E7D0902F2CE383C4003547EB /* Sources */ = {
+		E7D091012CE97355003547EB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E7D090452CE383C6003547EB /* Sources */ = {
+		E7D091112CE97358003547EB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E7D0904F2CE383C6003547EB /* Sources */ = {
+		E7D0911B2CE97358003547EB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -226,74 +226,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		E7D0904B2CE383C6003547EB /* PBXTargetDependency */ = {
+		E7D091172CE97358003547EB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E7D090322CE383C4003547EB /* Screen Scene */;
-			targetProxy = E7D0904A2CE383C6003547EB /* PBXContainerItemProxy */;
+			target = E7D091042CE97355003547EB /* Screen Scene */;
+			targetProxy = E7D091162CE97358003547EB /* PBXContainerItemProxy */;
 		};
-		E7D090552CE383C6003547EB /* PBXTargetDependency */ = {
+		E7D091212CE97358003547EB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E7D090322CE383C4003547EB /* Screen Scene */;
-			targetProxy = E7D090542CE383C6003547EB /* PBXContainerItemProxy */;
+			target = E7D091042CE97355003547EB /* Screen Scene */;
+			targetProxy = E7D091202CE97358003547EB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		E7D0905D2CE383C6003547EB /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Screen Scene/Info.plist";
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "hr.screenScene.Screen-Scene";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		E7D0905E2CE383C6003547EB /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Screen Scene/Info.plist";
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "hr.screenScene.Screen-Scene";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		E7D0905F2CE383C6003547EB /* Debug */ = {
+		E7D091272CE97358003547EB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -356,7 +302,7 @@
 			};
 			name = Debug;
 		};
-		E7D090602CE383C6003547EB /* Release */ = {
+		E7D091282CE97358003547EB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -412,7 +358,63 @@
 			};
 			name = Release;
 		};
-		E7D090622CE383C6003547EB /* Debug */ = {
+		E7D0912A2CE97358003547EB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Screen Scene/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "hr.screenScene.Screen-Scene";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E7D0912B2CE97358003547EB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Screen Scene/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "hr.screenScene.Screen-Scene";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E7D0912D2CE97358003547EB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -430,7 +432,7 @@
 			};
 			name = Debug;
 		};
-		E7D090632CE383C6003547EB /* Release */ = {
+		E7D0912E2CE97358003547EB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -448,7 +450,7 @@
 			};
 			name = Release;
 		};
-		E7D090652CE383C6003547EB /* Debug */ = {
+		E7D091302CE97358003547EB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -464,7 +466,7 @@
 			};
 			name = Debug;
 		};
-		E7D090662CE383C6003547EB /* Release */ = {
+		E7D091312CE97358003547EB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -483,43 +485,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E7D0902E2CE383C4003547EB /* Build configuration list for PBXProject "Screen Scene" */ = {
+		E7D091002CE97355003547EB /* Build configuration list for PBXProject "Screen Scene" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E7D0905F2CE383C6003547EB /* Debug */,
-				E7D090602CE383C6003547EB /* Release */,
+				E7D091272CE97358003547EB /* Debug */,
+				E7D091282CE97358003547EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E7D0905C2CE383C6003547EB /* Build configuration list for PBXNativeTarget "Screen Scene" */ = {
+		E7D091292CE97358003547EB /* Build configuration list for PBXNativeTarget "Screen Scene" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E7D0905D2CE383C6003547EB /* Debug */,
-				E7D0905E2CE383C6003547EB /* Release */,
+				E7D0912A2CE97358003547EB /* Debug */,
+				E7D0912B2CE97358003547EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E7D090612CE383C6003547EB /* Build configuration list for PBXNativeTarget "Screen SceneTests" */ = {
+		E7D0912C2CE97358003547EB /* Build configuration list for PBXNativeTarget "Screen SceneTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E7D090622CE383C6003547EB /* Debug */,
-				E7D090632CE383C6003547EB /* Release */,
+				E7D0912D2CE97358003547EB /* Debug */,
+				E7D0912E2CE97358003547EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E7D090642CE383C6003547EB /* Build configuration list for PBXNativeTarget "Screen SceneUITests" */ = {
+		E7D0912F2CE97358003547EB /* Build configuration list for PBXNativeTarget "Screen SceneUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E7D090652CE383C6003547EB /* Debug */,
-				E7D090662CE383C6003547EB /* Release */,
+				E7D091302CE97358003547EB /* Debug */,
+				E7D091312CE97358003547EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E7D0902B2CE383C4003547EB /* Project object */;
+	rootObject = E7D090FD2CE97355003547EB /* Project object */;
 }
