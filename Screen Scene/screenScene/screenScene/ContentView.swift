@@ -129,7 +129,7 @@ struct ContentView: View {
                         }
                     }
                     .padding(.bottom)
-                    .background(Color.white)
+                    .background(isDarkMode ? Color.black : Color.white)
                     .cornerRadius(15)
                     .shadow(radius: 10)
                     .padding()
